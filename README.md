@@ -28,7 +28,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [GitHub Repository](https://github.com/AravindM817/Product-preview-card_Frontend-Mentor)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [poetic-lollipop-600d12](https://poetic-lollipop-600d12.netlify.app/)
 
 ## My process
 
